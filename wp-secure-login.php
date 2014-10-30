@@ -1,8 +1,8 @@
 <?php
 /**
- * Ajax Login.
+ * Secure Login.
  * *
- * @package   Ajax_Login
+ * @package   Secure_Login
  * @author    Tom
  * @license   GPL-2.0+
  * @link      @TODO
