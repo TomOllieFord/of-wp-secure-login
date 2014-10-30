@@ -11,11 +11,11 @@
  * @wordpress-plugin
  * Plugin Name:       Secure-Login
  * Plugin URI:        @TODO
- * Description:       This plugin adds a login attempts whilst storing data in multiple locations.
+ * Description:       This plugin adds a login attempt system whilst storing data in multiple locations.
  * Version:           1.0.0
  * Author:            Tom
  * Author URI:        @TODO
- * Text Domain:       secure-login-locale
+ * Text Domain:       of-wp-secure-login
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
